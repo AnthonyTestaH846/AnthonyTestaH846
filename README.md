@@ -16,8 +16,8 @@
 - Git e GitHub
 
 ## 📌 Projetos em destaque
-- 2025-2-anthony-testaHentges-prog4 ([link](https://github.com/AnthonyTestaH846/Anthony_Modulo2_Programacao2)) — Protótipo de monitoramento de Abelhas e Qualidade do ar
-- Anthony_Modulo2_Programacao2 ([link](https://github.com/AnthonyTestaH846/Anthony_Modulo2_Programacao2)) — Projeto com intuito de aprender Linguagem Python e desenvolver um sistema de cadastramento a partir disso.
+- 2025-2-anthony-testaHentges-prog4 ([acesse aqui!](https://github.com/AnthonyTestaH846/Anthony_Modulo2_Programacao2)) — Protótipo de monitoramento de Abelhas e Qualidade do ar
+- Anthony_Modulo2_Programacao2 ([acesse aqui!](https://github.com/AnthonyTestaH846/Anthony_Modulo2_Programacao2)) — Projeto com intuito de aprender Linguagem Python e desenvolver um sistema de cadastramento a partir disso.
 
 ## 🚀 Em aprendizado
 - Engenharia de Software
