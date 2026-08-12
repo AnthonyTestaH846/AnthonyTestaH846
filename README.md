@@ -58,6 +58,36 @@ I'm still at the beginning of my professional journey, but I enjoy turning what 
 
 ## Featured Projects
 
+### Pizzeria — Web CRUD
+
+Collaborative web application developed as part of a team project for managing a fictional pizzeria.
+
+The project includes features for managing **customers, products, orders and other operational aspects**, providing practical experience with web development and collaborative software development.
+
+**Type:** Collaborative Project · Software Engineering Module 2
+
+**My Contributions:**
+
+**Client Side**
+* Payment system — Frontend & Backend
+* Home Page — Frontend & Backend
+* Final Page — Frontend & Backend
+* Menu — Backend
+
+**Admin Side**
+* Restricted access and administrative features
+
+**Communication**
+* Data flow between the database, client side and kitchen side
+
+**Maintenance**
+* Bug fixing and troubleshooting
+
+**Technologies:** PHP · MySQL · HTML · CSS · JavaScript
+
+[View project →](https://github.com/AnthonyTestaH846/Engenharia-de-Software-II)
+
+
 ### MABEL PTQA
 
 Web system developed to monitor information related to a beehive and air quality.
