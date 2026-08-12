@@ -128,7 +128,10 @@ I'm currently focused on strengthening my fundamentals and becoming more comfort
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
+<p >
+  <p>Email: <a href="mailto:atestahentges@gmail.com">atestahentges@gmail.com</a></p>
+  <a>Phone: +55 (49) 9 8411-0433</a>
+</p>
 ---
 
 <p align="center">
